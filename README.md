@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and C++
 - 📫 How to reach me : sanilshaury06@gmail.com , ryailxd@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Monkeytype : https://monkeytype.com/profile/RyaiL
 
 <!---
 Shaurya-Sanil/Shaurya-Sanil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
