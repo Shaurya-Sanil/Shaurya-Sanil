@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Shaurya-Sanil
 - 👀 I’m interested in WebDev & CyberSecurity
 - 🌱 I’m currently learning Python and C++
+- 🧠 I know HTML, CSS, C++ and Python
 - 📫 How to reach me : sanilshaury06@gmail.com , ryailxd@gmail.com
 - 😄 Pronouns: he/him
-- ⌨️ Monkeytype : https://monkeytype.com/profile/RyaiL
+- ⌨️ Monkeytype [100+ WPM] : https://monkeytype.com/profile/RyaiL
 - ⚡ About Me : 18y/o , pianist and love typing
 
 <!---
