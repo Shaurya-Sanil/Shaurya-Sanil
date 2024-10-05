@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Shaurya-Sanil
-- 👀 I’m interested in CyberSecurity
+- 👀 I’m interested in WebDev & CyberSecurity
 - 🌱 I’m currently learning Python and C++
 - 📫 How to reach me : sanilshaury06@gmail.com , ryailxd@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Monkeytype : https://monkeytype.com/profile/RyaiL
+- ⌨️ Monkeytype : https://monkeytype.com/profile/RyaiL
+- ⚡ About Me : 18y/o , pianist and love typing
 
 <!---
 Shaurya-Sanil/Shaurya-Sanil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
