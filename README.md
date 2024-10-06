@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaurya-Sanil
 - 👀 I’m interested in WebDev & CyberSecurity
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Java 
 - 🧠 I know HTML, CSS, C++ and Python
 - 📫 How to reach me : sanilshaury06@gmail.com , ryailxd@gmail.com
 - 😄 Pronouns: he/him
