@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shaurya-Sanil
-- 👀 I’m interested in WebDev & CyberSecurity
+- 👀 I’m interested in WebDev & Devops
 - 🌱 I’m currently learning Java 
-- 🧠 I know HTML, CSS, C++ and Python
+- 🧠 I know Java, Python, C
 - 📫 How to reach me : sanilshaury06@gmail.com , ryailxd@gmail.com
 - 😄 Pronouns: he/him
 - ⌨️ Monkeytype [130+ WPM] : https://monkeytype.com/profile/RyaiL
